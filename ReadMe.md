@@ -59,10 +59,11 @@
 ## Suivi des exercices 
 ---
 
-| Exercice \ Initial Etudiant | **[KGR](https://github.com/Kazanaris)** | **[RBN](https://github.com/Renato1226)** | **[LCX](https://github.com/REXI38)** | **[LFO](VolutedPenny235)** | **[FGT](https://github.com/fredericgoyet)** | **[HMT](https://github.com/HENRIIIIIIIII)** | **[ANE](https://github.com/Nintalbdly)** | **[ARD](https://github.com/Alex84628)** | **[DSY](https://github.com/Z1nghy)** | **[BSH](https://github.com/Hayatache)** | **[BZI](https://github.com/P60B40)** | 
+| Exercice \ Initial Etudiant | **[KGR](https://github.com/Kazanaris)** | **[RBN](https://github.com/Renato1226)** | **[LCX](https://github.com/REXI38)** | **[LFO](https://github.com/VolutedPenny235)** | **[FGT](https://github.com/fredericgoyet)** | **[HMT](https://github.com/HENRIIIIIIIII)** | **[ANE](https://github.com/Nintalbdly)** | **[ARD](https://github.com/Alex84628)** | **[DSY](https://github.com/Z1nghy)** | **[BSH](https://github.com/Hayatache)** | **[BZI](https://github.com/P60B40)** | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ex1 | OK | OK| OK| OK | OK | OK | OK | OK | OK | OK | OK | 
-| Ex2 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex1](https://github.com/ETML-ES-SLO/PROG_SLO1_24_25/tree/main/Exercice/Exo1) | OK | OK| OK| OK | OK | OK | OK | OK | OK | OK | OK | 
+| [Ex2A](https://github.com/ETML-ES-SLO/PROG_SLO1_24_25/tree/main/Exercice/Exo2) | OK | OK| OK| OK | OK | OK | OK | OK | OK | OK | OK | 
+| [Ex2B] | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex3 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex4 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |  
 | Ex5 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
