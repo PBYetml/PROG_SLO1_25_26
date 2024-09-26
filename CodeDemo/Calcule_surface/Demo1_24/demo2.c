@@ -4,7 +4,7 @@
 // Date de création 	: 19.09.2024
 // Date de modification : xx.xx.20xx
 //
-// Auteur 				: Renat (Renato Bertschmnann)
+// Auteur 				: Renat (Renato Bertschmnann)  -- 
 //
 // Version				: 0.1
 //
