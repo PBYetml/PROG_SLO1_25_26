@@ -46,22 +46,25 @@ void main()
 {   
 	//-- déclaration de variable --// 
 	//-- type entier 
-	int longueur_m = 100, largeur_m = 10, rayon; 
+	int longueur_m = 100, largeur_m = 10, rayon = 1; 
 
 	//-- type reel 
 	float surfaceCarre_m2, surfaceRectangle_m2, surfaceTriangle_m2, surfaceCercle_m2; 
 
-	//-- calculs --// 
+	//-- calculs surface --// 
 	//-- carré 
-	surfaceCarre_m2 = longueur_m ^ 2 ; 
+	surfaceCarre_m2 = longueur_m * longueur_m; 
+	surfaceCarre_m2 = powf(longueur_m, 2); 
+
 	//-- rectangle 
-    longueur_m * largeur_m = surfaceRectangle_m2; 
+	surfaceRectangle_m2 = longueur_m * largeur_m;
 	
 	//-- triangle 
-	surfaceTriangle_m2 = longueur_m * largeur_m / 2; 
+	surfaceTriangle_m2 = (longueur_m * largeur_m) / 2; 
 	
 	//-- cercle 
-	surfaceCercle_m2 = M_PI * rayon * rayon; 
+	surfaceCercle_m2 = M_PI * (rayon * rayon); 
+	surfaceCercle_m2 = M_PI * powf(rayon, 2); 
 
 }
 
