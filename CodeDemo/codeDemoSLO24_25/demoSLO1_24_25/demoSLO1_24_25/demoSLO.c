@@ -1,10 +1,10 @@
 /*---------------------------------------------------------------------------------- -//
-// Nom du projet 		: demoSLO1_24_25
-// Nom du fichier 		: demoSLO.c 
-// Date de création 	: 19.09.2024
-// Date de modification : 03.10.2024
+// Projet Name 			: demoSLO1_24_25
+// File Name 			: demoSLO.c
+// Creation Date 		: 19.09.2024
+// Modification Date	: 10.10.2024
 //
-// Auteur 				: Philou (Ph. Bovey)
+// Author 				: Philou (Ph. Bovey)
 //
 // Version				: 0.1
 //
@@ -12,7 +12,7 @@
 //						  1) calculer différentes surfaces 
 //
 //
-// Remarques :            lien pour la table ASCII :
+// Remarks				: lien pour la table ASCII :
 // 						  -> http://www.asciitable.com/
 // 						  lien pour la saisie de clavier avec getc & getchar pour ne pas
 //                        avoir des erreurs d'interprétation
@@ -55,7 +55,7 @@ void main()
 	//-- type entier 
 	enum e_choixSurface choixUser;	//-- WARNING : enum uniquement si enumération déclarée dans le source .c 
 
-	e_choixSurface2 choixUser2;		//-- lié au typedef du headerFile; 
+	e_surfaceChoice choixUser2;		//-- lié au typedef du headerFile; 
 
 	int longueur_m = 100, largeur_m = 10, rayon = 1; 
 
@@ -81,6 +81,9 @@ void main()
 
 	//-- appel de fonction 
 	slo(); 
+
+
+
  
 }
 

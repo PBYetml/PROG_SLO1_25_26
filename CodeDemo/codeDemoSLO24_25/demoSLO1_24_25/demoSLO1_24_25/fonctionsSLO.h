@@ -1,32 +1,42 @@
 /*---------------------------------------------------------------------------------- -//
-// Nom du projet 		: demoSLO1_24_25
-// Nom du fichier 		: fonctionsSLO.h
-// Date de création 	: 03.10.2024
-// Date de modification : xx.xx.2024
+// Projet Name 			: demoSLO1_24_25
+// File Name 			: fonctionsSLO.h
+// Creation Date 		: 03.10.2024
+// Modification Date	: xx.xx.2024
 //
-// Auteur 				: Philou (Ph. Bovey)
+// Author 				: Philou (Ph. Bovey)
 //
 // Version				: 0.1
 //
-// Description          : headerfile pour déclaration de : 
+// Description          : Declaration headerfile : 
 //						  - prototypes 
 //						  - constantes 
-//						  - enumération
+//						  - enumeration
 //
-// Remarques :            
+// RemarK				:            
 //----------------------------------------------------------------------------------*/
-#ifndef FONCTIONS_SLO_H
-#define FONCTIONS_SLO_H
+#ifndef FUNCTIONS_SLO_H
+#define FUNCTIONS_SLO_H
 
 //-- constantes --// 
-#define PI_2 3.14     // pas d'espace mémoire 
+#define PI_2 3.14     // no memory space
 
-//-- énumération --//
-typedef enum { carre2, rectangle2 = 6, triangle2, cercle2 } e_choixSurface2;
-
+//-- enumeration --//
+typedef enum { square, rectangle2 = 6, triangle2, circle } e_surfaceChoice;
 
 //-- prototypes --//
+/* -----------------------------------------------------------------------------------
+* Function Name                     : slo
+* Input - Ouput - I/O parameters    : void - int - N/A
+* Description                       : demonstrating the declaration of types
+                                      (integer, real, enumration) and the use of
+                                      operators
+----------------------------------------------------------------------------------- */
 int slo(void); 
+
+
+
+
 
 
 #endif // !FONCTIONS_SLO_H
