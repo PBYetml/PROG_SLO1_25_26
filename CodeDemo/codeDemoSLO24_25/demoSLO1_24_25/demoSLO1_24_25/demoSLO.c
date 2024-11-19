@@ -1,10 +1,10 @@
 /*---------------------------------------------------------------------------------- -//
-// Nom du projet 		: demoSLO1_24_25
-// Nom du fichier 		: demoSLO.c 
-// Date de création 	: 19.09.2024
-// Date de modification : 24.09.2024
+// Projet Name 			: demoSLO1_24_25
+// File Name 			: demoSLO.c
+// Creation Date 		: 19.09.2024
+// Modification Date	: 10.10.2024
 //
-// Auteur 				: Philou (Ph. Bovey)
+// Author 				: Philou (Ph. Bovey)
 //
 // Version				: 0.1
 //
@@ -12,7 +12,7 @@
 //						  1) calculer différentes surfaces 
 //
 //
-// Remarques :            lien pour la table ASCII :
+// Remarks				: lien pour la table ASCII :
 // 						  -> http://www.asciitable.com/
 // 						  lien pour la saisie de clavier avec getc & getchar pour ne pas
 //                        avoir des erreurs d'interprétation
@@ -27,10 +27,17 @@
 #include <math.h>						// pour les différentes fonctions mathématique 
 
 //-- appel de headerfile  -> vos fichier headerfile 
+#include "fonctionsSLO.h"
 
 //-- prototypes - WARNING à évité ici 
 
+
 //-- variables globales - WARNING à évité 
+
+
+//-- enumération globale --//
+enum e_choixSurface { carre, rectangle = 6, triangle, cercle }; // 0 - 6 - 7 - 8
+
 
 //-- déclaration de fonction 
 
@@ -46,10 +53,16 @@ void main()
 {   
 	//-- déclaration de variable --// 
 	//-- type entier 
+	enum e_choixSurface choixUser;	//-- WARNING : enum uniquement si enumération déclarée dans le source .c 
+
+	e_surfaceChoice choixUser2;		//-- lié au typedef du headerFile; 
+
 	int longueur_m = 100, largeur_m = 10, rayon = 1; 
 
 	//-- type reel 
 	float surfaceCarre_m2, surfaceRectangle_m2, surfaceTriangle_m2, surfaceCercle_m2; 
+
+
 
 	//-- calculs surface --// 
 	//-- carré 
@@ -64,12 +77,21 @@ void main()
 	
 	//-- cercle 
 	surfaceCercle_m2 = M_PI * (rayon * rayon); 
-	surfaceCercle_m2 = M_PI * powf(rayon, 2); 
+	surfaceCercle_m2 = PI_2 * powf(rayon, 2); 
 
+	//-- appel de fonction 
+	slo(); 
+
+
+
+ 
 }
 
 //-- déclaration de fonction 
+void ftc_test()
+{
 
+}
 
 
 

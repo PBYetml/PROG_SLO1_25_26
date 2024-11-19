@@ -1,15 +1,14 @@
 # PROG - Cours de programmation année 2024 - 2025
 ## Infos Pratique - Bonne pratique git
-
-1. Créer un compte sur un serveur GIT => pour l'ES nous utiliserons <span sytle="color: #FF0000">Github</span>
+###Créer un compte sur un serveur GIT => pour l'ES nous utiliserons <span sytle="color: #FF0000">Github</span>
 	
-=> **deux approches possible** <= 
 * => vous créez et gérez votre **propre dépôt** (local -> serveur)
 	
 	A. => sur votre machine (local) -> créez un **répertoire vide** où vous voulez
 	```
 	// exemple sous windows 
-	c:\mesDossierGit\monDepot 
+	C:
+	> mkdir c:\mesDossierGit\monDepot 
 	```
 	B. => sur votre serveur Git, créer un dépôt (new repository) 
 	
@@ -27,7 +26,8 @@
 	E. => pour mettre à jour votre dépôt distant -> placez-vous dans votre répertoire de travail local 
 	```
 	// exemple sous windows - répertoire de travail  
-	c:\mesDossierGit\monDepot 
+	C:
+	> cd c:\mesDossierGit\monDepot 
 	```
 	* => 3 commandes à connaitre 
 	
@@ -46,12 +46,13 @@
 	B.  => sur votre machine (local) -> créez un **répertoire vide** où vous voulez 
 	```
 	// exemple sous windows 
-	c:\mesDossierGit\monDepot 
+	C:
+	> mkdir c:\mesDossierGit\monDepot 
 	```
 	
 	C. => associez votre dépot (serveur) -> à votre dépôt local (machine) 
 	```
-	git clone <adresse serveur> 
+	git clone https://github.com/nomUserGit/votreNomDepotGit.git 
 	``` 
 
 *=> avec un outil graphqiue* -> sourceTree pour l'ES - GitDescktop - TortoiseGit - etc. 
@@ -64,9 +65,10 @@
 | [Ex1](https://github.com/ETML-ES-SLO/PROG_SLO1_24_25/tree/main/Exercice/Exo1) | OK | OK| OK| OK | OK | OK | OK | OK | OK | OK | OK | 
 | [Ex2A](https://github.com/ETML-ES-SLO/PROG_SLO1_24_25/tree/main/Exercice/Exo2) | OK | OK| OK| OK | OK | OK | OK | OK | OK | OK | OK | 
 | [Ex2B] | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex3 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex4 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |  
-| Ex5 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex2C](https://github.com/PBYetml/PROG_SLO1_24_25/issues/33) | OK | OK| OK| OK | OK | OK | OK | OK | OK | OK | OK | 
+| [Ex3](https://github.com/PBYetml/PROG_SLO1_24_25/issues/38) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex4](https://github.com/PBYetml/PROG_SLO1_24_25/issues/39) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |  
+| [Ex5](https://github.com/PBYetml/PROG_SLO1_24_25/issues/40) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex6 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex7 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex8 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
@@ -100,31 +102,35 @@
 * Pseudo-Code 			=> RBN - DSY - ARD 	| verificateur => ANE - HMT - LFO 
 
 ### Suivi projet
-* Partie A => réaliser un flow chart / pseudo code / structogramme : jackson ou NSI => Etat fini !!!
+* [Partie A](https://github.com/PBYetml/PROG_SLO1_24_25/tree/main/Exercice/Exo2) => réaliser un flow chart / pseudo code / structogramme : jackson ou NSI => Etat fini !!!
 * Partie B => réaliser code selon diagramme reçu => voir état d'avancement : 
+* [Partie C](https://github.com/PBYetml/PROG_SLO1_24_25/tree/main/CodeDemo/codeDemoSLO24_25/demoSLO1_24_25/demoSLO1_24_25) => réaliser un code permettant de calculer la surface d'une forme géométrique 
 
 ## Exercice 3
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo3)
 * lien avec le chapitre 3 - 4  	
 * source à disposition : Ex3_V02.c
 
-### Suivi projet
-* codage "individuel" 
-* etat d'avancement => voir [#4](https://github.com/PBYetml/PROG_SLO1_23_24/issues/4)
-
 ## Exercice 4
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo4)
 * lien avec le chapitre 3 - 4  	
 * source à disposition : Ex4_V2.C
 
-### Suivi projet
-* codage "individuel" 
-* état d'avancement => [#7](https://github.com/PBYetml/PROG_SLO1_23_24/issues/7)
-
 ## Exercice 5
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo5)
 * lien avec le chapitre 3 - 4 - 5 - 6 	
 * source à disposition : - 
+
+
+### Suivi projet
+* codage "individuel" 
+* etat d'avancement => voir [#4](https://github.com/PBYetml/PROG_SLO1_23_24/issues/4)
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#7](https://github.com/PBYetml/PROG_SLO1_23_24/issues/7)
+
+
 
 ### Suivi projet
 * codage "individuel" 
