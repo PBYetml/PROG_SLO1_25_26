@@ -17,33 +17,39 @@
 
 #include <stdio.h>	// pour usage printf
 #include <stdint.h> // uniformation du type entier 
-#include <math.h>
+
 
 enum e_Typefigure { cercle, ellipse, carre, rectangle, triangle, };
 // Déclaration globales des constantes
 // -----------------------------------
-const short VMAX = 1000;
-const short VMIN = -1000;
+const short VMAX = 10000;
+const short VMIN = -10000;
 const double PI = 3.14159;
 int main(void)
 {
 	// Déclarations locales des variables
 	// ----------------------------------
-	double Surface, rayon ;
-	char lettre;
+	double rayon = 8.5000;
+	double Surface = 0;
+	char lettre = 'B';
 
-
-	// Affectations
+	// déclaration/Affectations
 	// ------------
-	short tension = VMAX;
-	int bigVal = 0x1E240;
+	short tension = 0;
+	int bigVal = 0XBC614E;
+
+
+	//instruction
+
+	Surface = 2 * PI * (rayon * rayon);
+	tension =VMAX-500;
     
 	// Affichages pour controle
-	printf ("Tension = %d \n", );
- 	printf ("BigVal = %lx \n", );
-	printf ("Lettre  = %c \n", );
-	printf ("Figure = %d \n", );
-	printf ("Rayon = %8.3f Surface = %8.3f \n", );
+	printf ("Tension = %d \n",tension);
+ 	printf ("BigVal = %d \n",bigVal);
+	printf ("Lettre  = %c \n",lettre);
+	printf ("Figure = %d \n",carre );
+	printf ("Rayon = %8.3f Surface = %8.3f \n",rayon,Surface );
 
   return(0);
 }

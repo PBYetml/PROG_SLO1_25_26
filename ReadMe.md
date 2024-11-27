@@ -1,6 +1,6 @@
 # PROG - Cours de programmation année 2024 - 2025
 ## Infos Pratique - Bonne pratique git
-###Créer un compte sur un serveur GIT => pour l'ES nous utiliserons <span sytle="color: #FF0000">Github</span>
+###Créer un compte sur un serveur GIT => pour l'ES nous utiliserons <span sytle="color:#FF0000;">Github</span>
 	
 * => vous créez et gérez votre **propre dépôt** (local -> serveur)
 	
@@ -66,11 +66,12 @@
 | [Ex2A](https://github.com/ETML-ES-SLO/PROG_SLO1_24_25/tree/main/Exercice/Exo2) | OK | OK| OK| OK | OK | OK | OK | OK | OK | OK | OK | 
 | [Ex2B] | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | [Ex2C](https://github.com/PBYetml/PROG_SLO1_24_25/issues/33) | OK | OK| OK| OK | OK | OK | OK | OK | OK | OK | OK | 
-| [Ex3](https://github.com/PBYetml/PROG_SLO1_24_25/issues/38) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex3](https://github.com/PBYetml/PROG_SLO1_24_25/issues/38) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | OK | 
 | [Ex4](https://github.com/PBYetml/PROG_SLO1_24_25/issues/39) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |  
 | [Ex5](https://github.com/PBYetml/PROG_SLO1_24_25/issues/40) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex6 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex7 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex6](https://github.com/PBYetml/PROG_SLO1_24_25/issues/44) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex7](https://github.com/PBYetml/PROG_SLO1_24_25/issues/45) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex7B](https://github.com/PBYetml/PROG_SLO1_24_25/issues/46) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex8 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex9 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex10 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
@@ -121,40 +122,30 @@
 * lien avec le chapitre 3 - 4 - 5 - 6 	
 * source à disposition : - 
 
+## [CORRECTION TEST 1 -> Q3](https://github.com/PBYetml/PROG__RESULTAS_ETUDIANTS_TEST1_SLO1_24_25)
+* etat d'avancement => voir [#18](https://github.com/PBYetml/PROG__RESULTAS_ETUDIANTS_TEST1_SLO1_24_25/issues/18)
+* lien avec le chapitre 3 - 4 - 5 - 6 
+* source à disposition : Test 1 (individuel)  
 
-### Suivi projet
-* codage "individuel" 
-* etat d'avancement => voir [#4](https://github.com/PBYetml/PROG_SLO1_23_24/issues/4)
-
-### Suivi projet
-* codage "individuel" 
-* état d'avancement => [#7](https://github.com/PBYetml/PROG_SLO1_23_24/issues/7)
-
-
-
-### Suivi projet
-* codage "individuel" 
-* état d'avancement => [#15](https://github.com/PBYetml/PROG_SLO1_23_24/issues/15)
+## [CORRECTION TEST 1 -> Q6](https://github.com/PBYetml/PROG__RESULTAS_ETUDIANTS_TEST1_SLO1_24_25)
+* état d'avancement => [#8](https://github.com/PBYetml/PROG__RESULTAS_ETUDIANTS_TEST1_SLO1_24_25/issues/8)
+* lien avec le chapitre 3 - 4 - 5 - 6 
+* source à disposition : Test 1 (individuel)  
 
 ## Exercice 6
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo6)
 * lien avec le chapitre 3 - 4 - 5 - 6 	
 * source à disposition : - 
 
-### Suivi projet
-* codage "individuel" 
-* état d'avancement => [#16](https://github.com/PBYetml/PROG_SLO1_23_24/issues/16)
-
-## Exercices - Série 7
+## Exercice 7 
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo7)
-* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo7_1)
-* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo7_2)
 * lien avec le chapitre 3 - 4 - 5 - 6 - 7 
 * source à disposition : Ex7.c 
 
-### Suivi projet
-* codage "individuel" 
-* état d'avancement => [#17](https://github.com/PBYetml/PROG_SLO1_23_24/issues/17)
+## Exercice 7B 
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo7B)
+* lien avec le chapitre 3 - 4 - 5 - 6 - 7 
+* source à disposition : Ex7.c 
 
 ## Exercices - Série 8
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo8)
