@@ -2,11 +2,11 @@
 // Projet Name 			: demoSLO1_24_25
 // File Name 			: demoSLO.c
 // Creation Date 		: 19.09.2024
-// Modification Date	: 10.10.2024
+// Modification Date	: 21.11.2024
 //
 // Author 				: Philou (Ph. Bovey)
 //
-// Version				: 0.1
+// Version				: 0.2
 //
 // Description          : demo pour les slos 1 
 //						  1) calculer différentes surfaces 
@@ -82,6 +82,8 @@ void main()
 	//-- appel de fonction 
 	slo(); 
 
+	//appel de fonctio
+	choixUser2 = DemonstrationSlo1(longueur_m, largeur_m, (double)surfaceCarre_m2);
 
 
  
