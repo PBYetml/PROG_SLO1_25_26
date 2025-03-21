@@ -1,0 +1,6 @@
+﻿  MesFonction.c
+  Source.c
+C:\B_Z dossier\Prog\PROG_SLO1_24_25\Solution exercice à corriger\exo8\exo8\Source.c(41,18): error C2143: erreur de syntaxe : absence de ')' avant 'type'
+C:\B_Z dossier\Prog\PROG_SLO1_24_25\Solution exercice à corriger\exo8\exo8\Source.c(41,9): error C2198: 'exit' : pas assez d'arguments pour un appel
+C:\B_Z dossier\Prog\PROG_SLO1_24_25\Solution exercice à corriger\exo8\exo8\Source.c(41,19): error C2059: erreur de syntaxe : ')'
+  Génération de code en cours...
