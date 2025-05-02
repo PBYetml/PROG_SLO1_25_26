@@ -1,0 +1,6 @@
+﻿  Ex19.c
+C:\B_Z dossier\Prog\PROG_SLO1_24_25\Solution exercice à corriger\Exercice 19\Exercice 19\Ex19.c(40,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\B_Z dossier\Prog\PROG_SLO1_24_25\Solution exercice à corriger\Exercice 19\Exercice 19\Ex19.c(43,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\B_Z dossier\Prog\PROG_SLO1_24_25\Solution exercice à corriger\Exercice 19\Exercice 19\Ex19.c(47,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\B_Z dossier\Prog\PROG_SLO1_24_25\Solution exercice à corriger\Exercice 19\Exercice 19\Ex19.c(49,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercice 19.vcxproj -> C:\B_Z dossier\Prog\PROG_SLO1_24_25\Solution exercice à corriger\Exercice 19\x64\Debug\Exercice 19.exe
