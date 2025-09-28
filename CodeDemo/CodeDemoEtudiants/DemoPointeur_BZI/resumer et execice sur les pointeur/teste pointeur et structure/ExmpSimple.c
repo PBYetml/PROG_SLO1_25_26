@@ -68,7 +68,7 @@ int main(void) {
 	struct str_demo demo;
 	 change_structur(&demo);
 
-	printf("la taille de ma structur = %d", sizeof(struct str_demo));
+	printf("la taille de ma structure = %d\n", sizeof(struct str_demo));
 	printf("adresse de nombre = %p\n", &nombre); //afficher des adresse opérateur est %p 
 	printf("nombre = %d\n", nombre);
 	change_nombre(&nombre); // je suis obligé de lui donner une adresse 
