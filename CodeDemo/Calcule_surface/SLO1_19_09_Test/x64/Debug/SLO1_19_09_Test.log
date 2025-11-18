@@ -1,8 +1,0 @@
-﻿  lessepas les p.c
-C:\HM\Programation\S1\Test\SLO1_19_09_Test\SLO1_19_09_Test\lessepas les p.c(60,32): warning C4030: première liste de paramètres formels plus longue que la seconde
-C:\HM\Programation\S1\Test\SLO1_19_09_Test\SLO1_19_09_Test\lessepas les p.c(60,32): warning C4028: paramètre formel 1 différent de la déclaration
-C:\HM\Programation\S1\Test\SLO1_19_09_Test\SLO1_19_09_Test\lessepas les p.c(108,45): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
-C:\HM\Programation\S1\Test\SLO1_19_09_Test\SLO1_19_09_Test\lessepas les p.c(137,32): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
-C:\HM\Programation\S1\Test\SLO1_19_09_Test\SLO1_19_09_Test\lessepas les p.c(156,26): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
-C:\HM\Programation\S1\Test\SLO1_19_09_Test\SLO1_19_09_Test\lessepas les p.c(53,50): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
-  SLO1_19_09_Test.vcxproj -> C:\HM\Programation\S1\Test\SLO1_19_09_Test\x64\Debug\SLO1_19_09_Test.exe

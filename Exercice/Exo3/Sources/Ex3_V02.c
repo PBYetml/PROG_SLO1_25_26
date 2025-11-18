@@ -2,9 +2,9 @@
 // Nom du projet 		: 
 // Nom du fichier 		: 
 // Date de création 	: xx.xx.2016
-// Date de modification : 08.11.2024
+// Date de modification : 14.09.2017
 //
-// Auteur 				: MBZ (Mohamad Bilal Zitouni )
+// Auteur 				: CHR (Christian Huber)
 //                        Philou (Ph. Bovey)
 //
 // Description          : 
@@ -17,26 +17,18 @@
 
 #include <stdio.h>	// pour usage printf
 #include <stdint.h> // uniformation du type entier 
-#include <math.h>
 
-enum e_Typefigure { cercle, ellipse, carre, rectangle, triangle, };
 // Déclaration globales des constantes
 // -----------------------------------
-const short VMAX = 1000;
-const short VMIN = -1000;
-const double PI = 3.14159;
+
 int main(void)
 {
 	// Déclarations locales des variables
 	// ----------------------------------
-	double Surface, rayon ;
-	char lettre;
-
 
 	// Affectations
 	// ------------
-	short tension = VMAX;
-	int bigVal = 0x1E240;
+
     
 	// Affichages pour controle
 	printf ("Tension = %d \n", );
