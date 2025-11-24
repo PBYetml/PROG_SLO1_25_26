@@ -1,0 +1,28 @@
+﻿  Demo.c
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(84,9): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'size_t'
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(84,9): message : utilisez '%zd' dans la chaîne de format
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(92,9): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'size_t'
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(92,9): message : utilisez '%zd' dans la chaîne de format
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(116,54): warning C4474: 'printf' : trop d'arguments passés pour la chaîne de format
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(116,54): message : les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 3 ont été fournis
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(57,8): warning C4101: 'varB' : variable locale non référencée
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(76,10): warning C4101: 'varM' : variable locale non référencée
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(79,11): warning C4101: 'varP' : variable locale non référencée
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(71,10): warning C4101: 'varJ' : variable locale non référencée
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(59,12): warning C4101: 'varD' : variable locale non référencée
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(78,11): warning C4101: 'varO' : variable locale non référencée
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(72,10): warning C4101: 'varK' : variable locale non référencée
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(73,10): warning C4101: 'varL' : variable locale non référencée
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(65,21): warning C4101: 'varH' : variable locale non référencée
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(70,9): warning C4101: 'varI' : variable locale non référencée
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(95,8): warning C4101: 'varR' : variable locale non référencée
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(82,7): warning C4101: 'varQ' : variable locale non référencée
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(77,11): warning C4101: 'varN' : variable locale non référencée
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(64,15): warning C4101: 'varG' : variable locale non référencée
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(96,9): warning C4101: 'varS' : variable locale non référencée
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(62,16): warning C4101: 'varE' : variable locale non référencée
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(63,17): warning C4101: 'varF' : variable locale non référencée
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(58,6): warning C4101: 'varC' : variable locale non référencée
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\Demo25_26\Demo.c(56,7): warning C4101: 'varA' : variable locale non référencée
+Demo.obj : error LNK2005: CalculPerimetreCercle déjà défini(e) dans ConversionPerso.obj
+C:\NAM\PROG_SLO1_25_26\CodeDemo\Demo_VisualStudio\Demo25_26\x64\Debug\Demo25_26.exe : fatal error LNK1169: un ou plusieurs symboles définis à différentes reprises ont été rencontrés
