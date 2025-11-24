@@ -100,7 +100,7 @@ int main(void)
 
 	ResD1 = D1 / D2; // Division 
 
-	ResD2 = D1 % D2;//Stockage du rest 
+	ResD2 = D1 % D2; //Stockage du rest 
 
 	printf ("Traitement cas D \n");
 
