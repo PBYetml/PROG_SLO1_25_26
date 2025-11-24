@@ -36,7 +36,7 @@ int main(void)
 
     //-- Déclaration d’un type énuméré --//
     enum e_TypeFigure { CERCLE, ELLIPSE, CARRE, RECTANGLE, TRIANGLE };
-    enum e_TypeFigure figure = ELLIPSE;
+    enum e_TypeFigure figure = CARRE;
 
     //-- Affectations --//
     tension = 9500;
